@@ -8,4 +8,4 @@
 - To run app
   - npm install
   - npm start
-  - run iOS simulator
+  - run IOS simulator
