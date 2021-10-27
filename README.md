@@ -6,6 +6,6 @@
 
 # Part 2
 - To run app
-  - npm install*
-  - npm start*
+  - npm install
+  - npm start
   - run iOS simulator
