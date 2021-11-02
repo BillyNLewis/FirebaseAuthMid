@@ -6,6 +6,8 @@
 
 # Part 2
 - To run app
+  - cd into directory you want to download to
+  - git clone https://github.com/BillyNLewis/FirebaseAuthMid.git
   - npm install
   - npm start
   - run IOS simulator
